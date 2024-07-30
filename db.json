@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Jayanth",
+      "email": "jay@gmail.com",
+      "phone": "09182896193",
+      "age": 24,
+      "country": "India",
+      "id": "01fc"
+    }
+  ]
+}
